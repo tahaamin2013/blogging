@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "The Batch Mate Strategy: Reverse Engineering for SEO Success
 "
 image:
-  url: "../Assets/reverse-engineering-for-seo-success-upscaled.png"
+  url: "../../src/reverse-engineering-for-seo-success-upscaled.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: ""

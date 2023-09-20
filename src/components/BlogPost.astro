@@ -1,25 +1,26 @@
 ---
-const { url, title, image, category, description, Short} = Astro.props;
+const { url, title, image, category, description, Short } = Astro.props;
 ---
 
-  <div class="box">
-    <a class="blog-post-link" href={url}>
-      <div class="blog-post-image-container">
-        {image && <img class="blog-post-image" src={image.url} alt={image.alt} />}
-      </div>
-      <div class="details-section">
-        <h2 class="blog-post-title">{title}</h2>
-        <p class="short">{Short}</p>
-        
-      <p href={url} class="Read-now"><span class="Span-TEXT-READ">Read Now</span><i class="arrow-icon">&rarr;</i></p>
+<div class="box">
+  <a class="blog-post-link" href={url}>
+    <div class="blog-post-image-container">
+      {image && <img class="blog-post-image" src={image.url} alt={image.alt} />}
+    </div>
+    <div class="details-section">
+      <h2 class="blog-post-title">{title}</h2>
+      <p class="short">{Short}</p>
+
+      <p href={url} class="Read-now">
+        <span class="Span-TEXT-READ">Read Now</span><i class="arrow-icon"
+          >&rarr;</i>
+      </p>
     </div>
   </a>
 </div>
 
 <style>
-  
-
-  .arrow-icon{
+  .arrow-icon {
     display: none;
     margin-left: 130px;
     text-decoration: none;
@@ -32,7 +33,7 @@ const { url, title, image, category, description, Short} = Astro.props;
     width: 250px;
     color: black;
   }
-  .Span-TEXT-READ{
+  .Span-TEXT-READ {
     text-decoration: underline;
   }
   .Read-now {
@@ -50,7 +51,7 @@ const { url, title, image, category, description, Short} = Astro.props;
       opacity: 100%;
       color: #000;
     }
-    .arrow-icon{
+    .arrow-icon {
       display: inline-block;
     }
   }
@@ -74,7 +75,6 @@ const { url, title, image, category, description, Short} = Astro.props;
     width: 280px;
     border-radius: 10px;
     overflow: hidden;
-
   }
 
   .blog-post-image-container {
@@ -104,8 +104,8 @@ const { url, title, image, category, description, Short} = Astro.props;
   }
 
   .blog-post-title {
-    font-family: 'Exo', sans-serif;
-    margin-right:18px;
+    font-family: "Exo", sans-serif;
+    margin-right: 18px;
     font-size: 18px;
     color: black;
   }

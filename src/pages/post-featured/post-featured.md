@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Unlocking 6 Powerful Methods to Discover Profitable, Low-Competition Niches
 "
 image:
-  url: "../Assets/Unlocking 6 Powerful Methods to Discover Profitable, Low-Competition Niches.png"
+  url: "../../src/Unlocking 6 Powerful Methods to Discover Profitable, Low-Competition Niches.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: "Uncover Profitable Niches: A Preview of 6 Powerful Methods for Niche Research and Optimization."

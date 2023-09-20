@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Unveiling Untapped Niches: A Strategic Guide to Low-Competition, High-Profitability Ventures"
 image:
-  url: "../Assets/Unvelling.png"
+  url: "../../src/Unvelling.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: "In the vast and ever-evolving realm of online entrepreneurship, finding untapped niches can be akin to discovering hidden treasure. These unexplored opportunities often come with low competition and the potential for substantial profitability. In this article, we will delve into a systematic approach for identifying these hidden gems, leveraging insights from various tools and strategies."

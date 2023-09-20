@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Demystifying the Web: How it Works and Ensuring Speed and Security
 "
 image:
-  url: "../Assets/how-the-web-works-and-ensuring-speed-and-security-upscaled.png"
+  url: "../../src/how-the-web-works-and-ensuring-speed-and-security-upscaled.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: ""

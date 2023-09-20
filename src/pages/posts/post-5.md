@@ -3,11 +3,11 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Niche Selection Criteria: A Guide to Finding Profitable Niches
 "
 image:
-  url: "../Assets/niche-selection-criteria-a-guide-to-finding-profi-upscaled.png"
+  url: "../../src/niche-selection-criteria-a-guide-to-finding-profi-upscaled.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: ""
-Short: "Discover the art of niche selection with criteria such as low Domain Authority, Keyword Difficulty, and Google Trends. Explore various niches and essential tools for success in the online marketplace."
+Short: "Choose niches with low Domain Authority, easy keywords, and rising Google Trends, using tools for online success."
 author: "Amin Ahsan"
 tags: ["Niche Research", "Blogging", "Keyword research"]
 ---
